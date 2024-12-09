@@ -1,4 +1,4 @@
-![](images/6/6f/Chapter_2-_Season_2.jpeg/revision/latest?cb=20200426155633)
+![](images/6/6f/Chapter_2-_Season_2.jpeg)
 # Project-C2-S2
 # Downloads
 # Chapter 2 Season 2
