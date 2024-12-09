@@ -1,5 +1,6 @@
 
-# Project-C2-S2![latest](https://github.com/user-attachments/assets/b5d152d9-0759-441c-8d01-93908fb3b199)
+# Project-C2-S2
+![4D033BDA-1696-4DE4-A106-E7E3B2B81685](https://github.com/user-attachments/assets/1a6d8ded-3f3f-444e-bed6-c74fb7774964)
 
 # Downloads
 # Chapter 2 Season 2
