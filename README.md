@@ -6,6 +6,7 @@
 # Chapter 2 Season 2
 # Download link
 # https://public.simplyblk.xyz/12.00.rar
-![1000](https://github.com/user-attachments/assets/1c22d0fd-bdb2-4cfb-91cc-2214c28caf17)
+![2AA4E6A8-D457-42DF-A203-8FA3768C22FC-1](https://github.com/user-attachments/assets/ec21d864-023e-4625-87a9-577925b35a98)
+
 
 
