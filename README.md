@@ -5,4 +5,4 @@
 # Chapter 2 Season 2
 # Download link
 # https://public.simplyblk.xyz/12.00.rar
-.
+![Uploading latest.png…]()
