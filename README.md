@@ -8,6 +8,7 @@
 ![2AA4E6A8-D457-42DF-A203-8FA3768C22FC-1](https://github.com/user-attachments/assets/ec21d864-023e-4625-87a9-577925b35a98)
 
 # Information
+# Removed all the releases for a big update coming next month probably!
 # Matchmaking Bots, Bosses, Henchmen, and more will be coming in Project C2 S2 Server Version 0.1.0.
 # The build will be moved to 12.21 in Project C2 S2 Server Version 0.2.5.
 # Spy Games will come, but I don't know when Spy Games includes Operation: Dropzone Operation: Knockout Operation: Payload and Operation: Infiltration.
